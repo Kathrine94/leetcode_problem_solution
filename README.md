@@ -1,1 +1,1 @@
-# leetcode_problem_solution
+This repository is about some idea of leetcode problems
